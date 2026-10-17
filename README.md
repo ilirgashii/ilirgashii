@@ -62,6 +62,6 @@ Albanian (native) · English (Fluent) · German (B1)
 ## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ilir_Gashi-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/ilir-gashi/)
+[![Email](https://img.shields.io/badge/Email-ilir@gixha.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ilir@gixha.com)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ilirgashii&layout=compact&theme=dark)
-[![Email](https://img.shields.io/badge/Email-ilir@gixha.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ilir@gixha.com)
