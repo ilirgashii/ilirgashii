@@ -15,7 +15,8 @@ I build hands-on projects with AWS, Terraform, Docker and Linux, and run my own 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white)
 ![OPNsense](https://img.shields.io/badge/OPNsense-D94F00?style=for-the-badge&logo=opnsense&logoColor=white)
-
+![Zoho Mail](https://img.shields.io/badge/Zoho_Mail-C8202B?style=for-the-badge&logo=zoho&logoColor=white)
+![DNS & Email](https://img.shields.io/badge/DNS_%26_Email-SPF_DKIM_DMARC-0078D4?style=for-the-badge)
 ## 🛠️ Projects
 
 ### [GroceryMate](https://github.com/ilirgashii/AWS_grocery)
@@ -43,6 +44,7 @@ Self-hosted Linux server and firewall.
 - **Operating Systems:** Linux (Ubuntu Server), Windows, WSL
 - **Networking:** TCP/IP, subnetting, routing, switching, NAT, DHCP, DNS, VPN (Cisco CCNA training completed)
 - **Security:** Web security fundamentals (OWASP Top 10, SQL injection, XSS, authentication), firewall rules, SSH key authentication
+- **Domain & Email:** DNS management, private email hosting (Zoho Mail), SPF, DKIM, DMARC
 - **Firewall & Home Lab:** OPNsense, LAN/WAN configuration, home server administration
 - **Remote Access:** SSH, Tailscale
 - **Databases:** MySQL, PostgreSQL
