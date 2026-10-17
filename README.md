@@ -26,22 +26,29 @@ AWS infrastructure and automated deployment.
 - Stack: AWS (EC2, RDS, VPC, IAM, CloudWatch), Terraform, Docker
 
 ### [Nlocki](https://github.com/ilirgashii/Nlocki)
-Application project with a local Docker setup.
-- <what the app does, in one line>
-- Stack: <technologies>
+Social multimedia app to track your fitness, food and daily tasks, installable as a PWA.
+- Backend: Node.js and PostgreSQL, with a restricted database role and row-level policies
+- Frontend: React, TypeScript, Vite, TailwindCSS
+- Containerized with Docker Compose (API, gateway, database, Redis)
+- Progressive Web App with offline support, installable on iPhone
+- Stack: Node.js, PostgreSQL, React, TypeScript, Docker, Redis
 
 ### Home Lab
 Self-hosted Linux server and firewall.
-- OPNsense firewall with LAN/WAN configuration and firewall rules
-- Docker services on an Ubuntu Server, remote access via SSH keys and Tailscale
-- <link to docs or diagram, if available>
+- OPNsense firewall between the internet and the internal network (LAN/WAN configuration, firewall rules)
+- Ubuntu Server hardened with UFW, key-only SSH and automatic security updates
+- Docker services: own web application, game server, and further containers
+- KVM/libvirt for virtual machines, with VM storage on a separate data disk
+- Private remote access over Tailscale and SSH keys, no ports opened to the internet
+- Personal domain with DNS management and private email (Zoho Mail), SPF/DKIM/DMARC
+- Status: in progress, router and network segmentation being finalized
 
 ## 🚀 Skills and Technologies
 
 - **Cloud:** AWS: EC2, S3, RDS, VPC, IAM, CloudWatch
 - **Infrastructure as Code:** Terraform
 - **Containers:** Docker, Docker Compose
-- **Operating Systems:** Linux (Ubuntu Server), Windows, WSL
+- **Operating Systems:** Linux (Ubuntu Server, WSL), Windows
 - **Networking:** TCP/IP, subnetting, routing, switching, NAT, DHCP, DNS, VPN (Cisco CCNA training completed)
 - **Security:** Web security fundamentals (OWASP Top 10, SQL injection, XSS, authentication), firewall rules, SSH key authentication
 - **Domain & Email:** DNS management, private email hosting (Zoho Mail), SPF, DKIM, DMARC
