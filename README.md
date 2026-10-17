@@ -3,7 +3,7 @@
 **Junior Cloud Engineer** with a Bachelor's degree in Computer Science and a background in IT support.
 I build hands-on projects with AWS, Terraform, Docker and Linux, and run my own home lab.
 
-🟢 Open to work: Junior Cloud Engineer / DevOps / IT Administrator roles in Germany
+🟢 Open to work: Junior Cloud Engineer / Junior DevOps / IT Administrator roles in Germany
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
@@ -41,29 +41,27 @@ Self-hosted Linux server and firewall.
 - **Infrastructure as Code:** Terraform
 - **Containers:** Docker, Docker Compose
 - **Operating Systems:** Linux (Ubuntu Server), Windows, WSL
-- **Networking:** TCP/IP, subnetting, routing, switching, NAT, DHCP, DNS (Cisco CCNA training completed)
+- **Networking:** TCP/IP, subnetting, routing, switching, NAT, DHCP, DNS, VPN (Cisco CCNA training completed)
 - **Security:** Web security fundamentals (OWASP Top 10, SQL injection, XSS, authentication), firewall rules, SSH key authentication
 - **Firewall & Home Lab:** OPNsense, LAN/WAN configuration, home server administration
 - **Remote Access:** SSH, Tailscale
 - **Databases:** MySQL, PostgreSQL
-- **Programming & Scripting:** Python, Bash, JavaScript, C++ fundamentals
+- **Programming & Scripting:** Python, Bash, JavaScript fundamentals, HTML/CSS (Basics)
 - **Version Control:** Git, GitHub
 - **Monitoring:** AWS CloudWatch, application and container logs
-- **IT Administration:** Active Directory, user support, troubleshooting, PC imaging
+- **IT Administration:** Active Directory, user support, troubleshooting.
 
 ## 📚 Currently Learning
 
-- AWS (towards cloud engineering certifications)
-- Web security
-- Linux administration and automation
+- AWS Certified Cloud Practitioner (in preparation)
 
 ## 🌍 Languages
 
-Albanian (native) · English (<level>) · German (<level>)
+Albanian (native) · English (Fluent) · German (B1)
 
 ## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ilir_Gashi-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/ilir-gashi/)
-[![GitHub](https://img.shields.io/badge/GitHub-ilirgashii-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ilirgashii)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ilirgashii&layout=compact&theme=dark)
+[![Email](https://img.shields.io/badge/Email-Contact_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ilir@gixha.com)
