@@ -22,12 +22,11 @@ I build hands-on projects with AWS, Terraform, Docker and Linux, and run my own 
 
 <p>
   <img src="aws-cloud-practitioner.png.png" width="100" alt="AWS Certified Cloud Practitioner">
-  <img src="aws-cloud-quest.png" width="100" alt="AWS Cloud Quest – Training">
-  <img src="cisco-introduction.png" width="100" alt="CCNA: Introduction to Networks">
-  <img src="cisco-switching.png" width="100" alt="CCNA: Switching, Routing, and Wireless Essentials">
-  <img src="cisco-enterprise.png" width="100" alt="CCNA: Enterprise Networking, Security, and Automation">
+  <img src="aws-cloud-quest.png.png" width="100" alt="AWS Cloud Quest – Training">
+  <img src="cisco-introduction.png.png" width="100" alt="CCNA: Introduction to Networks">
+  <img src="cisco-switching.png.png" width="100" alt="CCNA: Switching, Routing, and Wireless Essentials">
+  <img src="cisco-enterprise.png.png" width="100" alt="CCNA: Enterprise Networking, Security, and Automation">
 </p>
-
 
 ## 🛠️ Projects
 
