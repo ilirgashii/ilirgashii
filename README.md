@@ -17,12 +17,12 @@ I build hands-on projects with AWS, Terraform, Docker and Linux, and run my own 
 ![OPNsense](https://img.shields.io/badge/OPNsense-D94F00?style=for-the-badge&logo=opnsense&logoColor=white)
 ![Zoho Mail](https://img.shields.io/badge/Zoho_Mail-C8202B?style=for-the-badge&logo=zoho&logoColor=white)
 ![DNS & Email](https://img.shields.io/badge/DNS_%26_Email-SPF_DKIM_DMARC-0078D4?style=for-the-badge)
-<img src="aws-cloud-practitioner.png.png" alt="AWS Certified Cloud Practitioner" width="100">
-<img src="aws-cloud-quest.png" width="100" alt="AWS Cloud Quest: Cloud Practitioner – Training">
+
 ### Certifications & Training
 
 <p>
   <img src="aws-cloud-practitioner.png.png" width="100" alt="AWS Certified Cloud Practitioner">
+  <img src="aws-cloud-quest.png" width="100" alt="AWS Cloud Quest – Training">
   <img src="cisco-introduction.png" width="100" alt="CCNA: Introduction to Networks">
   <img src="cisco-switching.png" width="100" alt="CCNA: Switching, Routing, and Wireless Essentials">
   <img src="cisco-enterprise.png" width="100" alt="CCNA: Enterprise Networking, Security, and Automation">
