@@ -17,7 +17,7 @@ I build hands-on projects with AWS, Terraform, Docker and Linux, and run my own 
 ![OPNsense](https://img.shields.io/badge/OPNsense-D94F00?style=for-the-badge&logo=opnsense&logoColor=white)
 ![Zoho Mail](https://img.shields.io/badge/Zoho_Mail-C8202B?style=for-the-badge&logo=zoho&logoColor=white)
 ![DNS & Email](https://img.shields.io/badge/DNS_%26_Email-SPF_DKIM_DMARC-0078D4?style=for-the-badge)
-[![AWS Certified Cloud Practitioner](img/aws-cloud-practitioner.png)](YOUR_BADGE_LINK)
+![AWS Certified Cloud Practitioner](aws-cloud-practitioner.png.png)
 ## 🛠️ Projects
 
 ### [GroceryMate](https://github.com/ilirgashii/AWS_grocery)
